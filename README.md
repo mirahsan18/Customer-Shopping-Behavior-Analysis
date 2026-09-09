@@ -38,7 +38,8 @@ The main objectives of this project are:
 - **DAX**
 - **CSV Dataset**
   
-![Power BI Dashboard](image/dashboard.png)
+# Power BI Dashboard
+![Customer Shopping Behavior Dashboard](dashboard.png)
 
 # Dataset
 The dataset contains customer shopping information such as:
