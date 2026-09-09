@@ -136,3 +136,10 @@ Analyze discount effectiveness before launching future promotions.
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw customer shopping data and transforming it into actionable business insights.
 It showcases practical skills in Python, Pandas, SQL, MySQL, Power BI, and DAX, making it a useful portfolio project for a Data Analyst role.
+
+# Author
+
+**Md Ahsanul Haque**
+
+Aspiring Data Analyst
+Skills: Python | Pandas | SQL | MySQL | Power BI | DAX | Excel
